@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+	<!-- TD Event scripts -->
+	<action itemid="2557" script="TDEvent/twdHammer.lua" allowfaruse="1"/>
+</actions>

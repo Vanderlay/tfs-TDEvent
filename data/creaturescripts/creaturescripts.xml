@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creaturescripts>
+	<!-- TD event -->
+	<event type="death" name="TWDDeath" script="TDEvent/twdDeath.lua"/>
+	<event type="preparedeath" name="TWDOnLose" script="TDEvent/twdOnLose.lua"/>
+	<event type="modalwindow" name="TWDBuildWindow" script="TDEvent/twdBuildWindow.lua"/>
+	<event type="modalwindow" name="TWDOtherWindow" script="TDEvent/twdOtherWindow.lua"/>
+	<event type="healthchange" name="TWDHealthChange" script="TDEvent/twdHealthChange.lua"/>
+</creaturescripts>

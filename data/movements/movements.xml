@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movements>
+	<!-- TD Event -->
+	<movevent event="StepIn" fromuid="3333" touid="3334" script="TDEvent/twdTile.lua"/>
+</movements>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsters>
+	<!-- TWD Event -->
+    <monster name="Rat_TWD" file="TDEvent/rat.xml"/>
+    <monster name="Cave Rat_TWD" file="TDEvent/cave rat.xml"/>
+</monsters>
